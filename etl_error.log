@@ -1,4 +1,0 @@
-[2025-03-25 10:04:18] ERRO NO PROCESSO ETL: Erro ao ler arquivo Excel: Worksheet named 'dataframe_pmdf' not found
-[2025-03-25 10:27:27] ERRO NO PROCESSO ETL: Erro ao verificar planilhas do arquivo Excel: [Errno 13] Permission denied: 'C:\\Users\\JS982PS\\OneDrive - EY\\Documents\\pmdf-analytcs\\databases\\database-sec.xlsx'
-[2025-03-25 10:37:26] ERRO: [Errno 13] Permission denied: 'C:\\Users\\JS982PS\\OneDrive - EY\\Documents\\pmdf-analytcs\\databases\\database-sec.xlsx'
-[2025-03-25 10:40:40] ERRO: Erro na limpeza dos dados: Coluna 'UF' não encontrada no DataFrame
